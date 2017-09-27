@@ -5,10 +5,10 @@
 - 引数に数字を入れると、「分」として解釈する
 - ３秒前になると、１秒ごとにビープ音でお知らせ
 
-## My Favorite Time to eat them
+## My Favorite Time best to eat
 
-Cup Noodle Name    | Time
--------------------+----------------------
-U.F.O., Nisshin    | 2   min
-Chicken Ramen      | 2.5 min
-Cup Noodle Nisshin | 3   min
+| Cup Noodle Name    | Time
+| ------------------ | --------
+| U.F.O., Nisshin    | 2   min
+| Chicken Ramen      | 2.5 min
+| Cup Noodle Nisshin | 3   min
